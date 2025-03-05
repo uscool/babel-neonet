@@ -1,0 +1,13 @@
+client_id,user_id,status,purchase_property,purchase_date,client_name
+CLIENT_1,USER_1,active,none,2025-03-05,Rishit
+CLIENT_2,USER_1,closed,none,2025-03-05,Roman
+CLIENT_3,USER_1,closed,none,2025-03-05,Vivek
+CLIENT_4,USER_1,closed,none,2025-03-05,Romania
+CLIENT_5,USER_1,closed,none,2025-03-05,Manav
+CLIENT_6,USER_1,closed,none,2025-03-05,Jaival
+CLIENT_7,USER_1,closed,none,2025-03-05,Pranav
+CLIENT_8,USER_1,closed,none,2025-03-05,TRIAL
+CLIENT_9,USER_1,closed,none,2025-03-05,Pratham
+CLIENT_10,USER_1,closed,PROP002,2025-03-05,oks
+CLIENT_11,USER_1,closed,PROP002,2025-03-05,Random
+CLIENT_12,USER_1,active,none,,Pratham
